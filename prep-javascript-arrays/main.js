@@ -1,4 +1,5 @@
 const languages = ['html', 'css', 'javascript', 'react', 'node', 'postgres'];
+
 console.log('languages array:', languages);
 
 const firstElement = languages[0];
@@ -12,3 +13,4 @@ console.log('The length of the array is:', length);
 
 const lastElement = languages[length - 1];
 console.log('The last element of the array is:', lastElement);
+

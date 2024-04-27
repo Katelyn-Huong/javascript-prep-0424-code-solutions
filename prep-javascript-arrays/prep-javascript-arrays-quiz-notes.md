@@ -6,6 +6,7 @@ Answer the following questions in the provided markdown file before turning in t
 
 - What is the principal use of arrays?
   Arrays are used for lists and collections of other data types
+
 - Describe the syntax (structure) of array-literals in JavaScript.
   Arrays are defined by using square brackets [] and adding comma delineated values between the opening and closing brackets.
 - What number represents the **first** index of an array?
